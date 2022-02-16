@@ -28,14 +28,17 @@ stop.
 Developed by: G.jayanth
 reference Number: 21005806
 '''
+```
 with open('text','r') as file1:
     with open('text1','w') as file2:
         for i in file1:
             file2.write(i)
-
+```
 ### OUTPUT:
-
-
+![OUTPUT](/ADIT.png)
+![OUTPUT](/ADIT1.png)
+![OUTPUT](/ADIT2.png)
+~~~
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
